@@ -10,7 +10,7 @@ namespace AS01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("kaka");
+            Console.WriteLine("kakat");
         }
     }
 }
