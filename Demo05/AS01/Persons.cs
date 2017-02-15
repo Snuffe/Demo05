@@ -17,7 +17,7 @@ namespace AS01
         /// <summary>
         /// Add persons to collection
         /// </summary>
-        /// <param name="person" to add></param>
+        /// <param name="person">person to add</param>
         public void AddPerson(Person person)
         {
             persons.Add(person);
